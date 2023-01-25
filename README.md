@@ -4,7 +4,7 @@
 
              { Agricultural Engineer 🌺}  &  { Homebrewer 🍺}  &  { Code Lover 💻}
   
-   After working for many years in several Golfcourses in different countries, I decided to learn another role, Web Developer.
+   After working for many years in several Golfcourses and different countries, I decided to learn another role, Web Developer.
 
 
              - 🌱 I’m currently learning JavaScript, HTML, CSS, TypeScript, React...  - Please, look below 👀 -
