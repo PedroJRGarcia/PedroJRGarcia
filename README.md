@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋! 
+                                              I'm Pedro 🌵
 
-<!--
-**PedroJRGarcia/PedroJRGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                   { Agricultural Engineer 🌺}  &  { Homebrewer 🍺}  &  { Code Lover 💻}
+  
+   After working for many years in several Golfcourses in different countries, I decided to learn another role, Web Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                   - 🌱 I’m currently learning JavaScript, HTML, CSS, TypeScript, React...  - Please, look below 👀 -
+                   - 🔭 Looking forward to improve my skills continuously.
+                   - 👯 I’m looking to land my first job as developer.
+                   - 🚀 I love travelling as well, and get to know new places and cultures.
+                   - 💻 Check out my portfolio here 👉 
+
+                                            Languages & Tools :
+
