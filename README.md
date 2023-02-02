@@ -11,6 +11,7 @@
              - 🔭 Looking forward to improve my skills continuously.
              - 👯 I’m looking to land my first job as developer.
              - 🚀 I love travelling as well, and get to know new places and cultures.
+             - 📫 You can reach me at: garciapj85@gmail.com.
              - 💻 Check out my portfolio here 👉 
 
              Languages & Tools :
