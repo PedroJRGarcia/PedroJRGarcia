@@ -1,5 +1,5 @@
 ### Hi there ☀️ ! 
-![](https://visitor-badge.laobi.icu/badge?page_id=PedroJRGarcia.PedroJRGarcia)
+
 [![Github](https://img.shields.io/github/followers/PedroJRGarcia?label=Follow&style=social)](https://github.com/PedroJRGarcia)
 
                                               
